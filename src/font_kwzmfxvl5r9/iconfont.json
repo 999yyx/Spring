@@ -1,0 +1,100 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "672036",
+      "name": "下拉",
+      "font_class": "xiala",
+      "unicode": "e6b9",
+      "unicode_decimal": 59065
+    },
+    {
+      "icon_id": "781701",
+      "name": "上一曲1-01",
+      "font_class": "shangyiqu101",
+      "unicode": "e6e1",
+      "unicode_decimal": 59105
+    },
+    {
+      "icon_id": "781774",
+      "name": "下一曲1-01",
+      "font_class": "xiayiqu101",
+      "unicode": "e718",
+      "unicode_decimal": 59160
+    },
+    {
+      "icon_id": "1212292",
+      "name": "菜单",
+      "font_class": "caidan",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "1727447",
+      "name": "216更多-竖向",
+      "font_class": "gengduo-shuxiang",
+      "unicode": "e8c4",
+      "unicode_decimal": 59588
+    },
+    {
+      "icon_id": "2076265",
+      "name": "评论",
+      "font_class": "pinglun",
+      "unicode": "e891",
+      "unicode_decimal": 59537
+    },
+    {
+      "icon_id": "2076276",
+      "name": " 唱歌",
+      "font_class": "changge",
+      "unicode": "e895",
+      "unicode_decimal": 59541
+    },
+    {
+      "icon_id": "2674474",
+      "name": "播放",
+      "font_class": "bofang",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "2674483",
+      "name": "暂停",
+      "font_class": "zanting",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "7594088",
+      "name": "24gl-repeatOnce2",
+      "font_class": "24gl-repeatOnce2",
+      "unicode": "ea75",
+      "unicode_decimal": 60021
+    },
+    {
+      "icon_id": "8288890",
+      "name": "下载",
+      "font_class": "xiazai",
+      "unicode": "e856",
+      "unicode_decimal": 59478
+    },
+    {
+      "icon_id": "8288959",
+      "name": "爱心",
+      "font_class": "aixin",
+      "unicode": "e85c",
+      "unicode_decimal": 59484
+    },
+    {
+      "icon_id": "21435118",
+      "name": "分享",
+      "font_class": "fenxiang",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    }
+  ]
+}
